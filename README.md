@@ -25,12 +25,14 @@ The following common data quality issues were checked with the help of pandas li
 * Duplicates
 * Incorrect data type
 * Renaming columns
-   
+   ![data cleaning](https://github.com/user-attachments/assets/bee20cd2-9875-4332-934c-dee4e39b6723)
+
  The dataset was further refined by correcting erros of data type mismatches , renamed columns and further removed columns which were not applicable to my analysis. 
 
 * #### DATA EXPLORATION
   Data exploration techinques were employed which involves descriptive statistics to provide summary statistics(mean, mode, median, quartiles,standard deviation,etc) to have a rough understanding of the data before diving deep into earthing insights. Histograms, boxplot/whisker, kernel density were of use to help with identifying outliers,patterns and trends in the dataset.
 ![heatmap summary stat](https://github.com/user-attachments/assets/d9b9fd11-f6b7-4373-b51b-0f09b4b8575a)
+![ratings ditribution](https://github.com/user-attachments/assets/18050c59-0edf-4a36-8e6d-262edd1b5cb3)
 
   
 * #### DATA VISUALISATION
@@ -45,5 +47,6 @@ The following common data quality issues were checked with the help of pandas li
 4. *Sales by customer?*
 ![Demographics](https://github.com/user-attachments/assets/579fbe4b-31c3-4452-aaaf-e5022502b282)
 
-5.
+5. *Most profitable product line ?* ![sales performance](https://github.com/user-attachments/assets/a5b23a43-0124-40c4-9d38-f45c10a6fcd4)
+
 
