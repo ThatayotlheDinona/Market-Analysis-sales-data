@@ -13,6 +13,7 @@ This analysis intends to investigate the market sales of an imaginary supermarke
 6. To compare sales performance across branches
 7. To determine the total sales revenue over a specific period?
 
+
 ### DATA ANALYSIS METHODOLOGY
 This is a systematic process of inspecting ,cleaning, transforming data with the goal of discovering useful information and this was done using python with libraries such as **pandas, matplotlib , seaborn and numpy** imported.
  * ##### DATA COLLECTION 
@@ -39,14 +40,24 @@ The following common data quality issues were checked with the help of pandas li
   Visuals were created to support analysis and visualise patterns, trends and insights of the data.
 
  1.  *Total sales revenue over a specific period?*
-    ![Sales of revenue over period](Sales_revenue_over_specific_period.png)
+    
+     The figure below illustrates the sales trends across different months. It shows that sales fluctuated significantly over this period.
+![Sales_revenue_over_specific_period](https://github.com/user-attachments/assets/b1ab8975-6741-4e43-8dab-ffbd104725c7)
+
+   
 2. *Payment methods used by customer?*
+     
+   The figure below illustrates the most used payment methods by customers, which are e-wallet and cash. This insight can help us better cater to their preferences.
    ![Payment methods used by customer](https://github.com/user-attachments/assets/734f0e5a-4904-41ca-aa4d-0ca8f9fb9ff7)
 3. *Customer ratings to gauge satisfaction levels?*
+   
+   The figure below depicts customer ratings for different products and services. This can help us understand customer perceptions. Health and beauty products received the lowest ratings, indicating a need for review and improvement to enhance their appeal.
+   
   ![Gauge ratings (1)](https://github.com/user-attachments/assets/24de4456-f930-444f-a884-2249e6faebc9)
-4. *Sales by customer?*
+6. *Sales by customer?*
 ![Demographics](https://github.com/user-attachments/assets/579fbe4b-31c3-4452-aaaf-e5022502b282)
 
-5. *Most profitable product line ?* ![sales performance](https://github.com/user-attachments/assets/a5b23a43-0124-40c4-9d38-f45c10a6fcd4)
+7. *Most profitable product line ?*![Screenshot 2024-11-23 203136](https://github.com/user-attachments/assets/a5016fbd-33e6-4024-a7f0-047a00287c2d)
+8. *Sales by Branch name* ![sales performance](https://github.com/user-attachments/assets/a5b23a43-0124-40c4-9d38-f45c10a6fcd4)
 
 
