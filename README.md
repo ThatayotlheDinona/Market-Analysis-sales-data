@@ -36,4 +36,6 @@ The following common data quality issues were checked with the help of pandas li
 
  1.  *Total sales revenue over a specific period?*
     ![Sales of revenue over period](Sales_revenue_over_specific_period.png)
+2. *Payment methods used by customer?*
+   ![Payment methods used by customer](file:///C:/Users/ThatayotlheDinona/Downloads/payment%20methods.png)
   
