@@ -30,6 +30,7 @@ The following common data quality issues were checked with the help of pandas li
 
 * #### DATA EXPLORATION
   Data exploration techinques were employed which involves descriptive statistics to provide summary statistics(mean, mode, median, quartiles,standard deviation,etc) to have a rough understanding of the data before diving deep into earthing insights. Histograms, boxplot/whisker, kernel density were of use to help with identifying outliers,patterns and trends in the dataset.
+![heatmap summary stat](https://github.com/user-attachments/assets/d9b9fd11-f6b7-4373-b51b-0f09b4b8575a)
 
   
 * #### DATA VISUALISATION
@@ -41,7 +42,8 @@ The following common data quality issues were checked with the help of pandas li
    ![Payment methods used by customer](https://github.com/user-attachments/assets/734f0e5a-4904-41ca-aa4d-0ca8f9fb9ff7)
 3. *Customer ratings to gauge satisfaction levels?*
   ![Gauge ratings (1)](https://github.com/user-attachments/assets/24de4456-f930-444f-a884-2249e6faebc9)
-4. *Which product line are most profitable?*
+4. *Sales by customer?*
 ![Demographics](https://github.com/user-attachments/assets/579fbe4b-31c3-4452-aaaf-e5022502b282)
 
+5.
 
