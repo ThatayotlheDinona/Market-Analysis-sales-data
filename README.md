@@ -55,11 +55,19 @@ The density distribution of customer ratings shows a single peak around a rating
    The figure below depicts customer ratings for different products and services. This can help us understand customer perceptions. Health and beauty products received the lowest ratings, indicating a need for review and improvement to enhance their appeal.
    
   ![Gauge ratings (1)](https://github.com/user-attachments/assets/24de4456-f930-444f-a884-2249e6faebc9)
-6. *Sales by customer?*  
-The bar chart below shows the total sales categorized by gender. From the chart, we can see that the total sales for females are higher than those for males. This information is crucial for understanding the purchasing behavior of different genders, which can help in tailoring marketing strategies. The higher sales among females suggest that marketing efforts could be more focused on products that appeal to women to maximize revenue. Overall, the chart indicates that females contribute more to total sales, highlighting the importance of targeting this demographic in future campaigns.
+4. *Sales by customer?*  
+
+The bar chart below shows the total sales categorized by gender. From the chart, we can see that the total sales for females are higher than those for males. This information is crucial for understanding the purchasing behavior of different genders, which can help in tailoring marketing strategies. The higher sales among females suggest that marketing efforts could be more focused on products that appeal to women to maximize revenue. Overall, the chart indicates that females contribute more to total sales, highlighting the importance of targeting this demographic in future campaigns.  
+
 ![Demographics](https://github.com/user-attachments/assets/579fbe4b-31c3-4452-aaaf-e5022502b282)
 
-7. *Most profitable product line ?*![Screenshot 2024-11-23 203136](https://github.com/user-attachments/assets/a5016fbd-33e6-4024-a7f0-047a00287c2d)
-8. *Sales by Branch name* ![sales performance](https://github.com/user-attachments/assets/a5b23a43-0124-40c4-9d38-f45c10a6fcd4)
+5. *Most profitable product line ?*  
+   Food and Beverages and fashion accessories product line shows the highest gross income, it might be beneficial to invest more in this category to maximize profits while Health and Beauty show the lowest gross income. Overall, the chart highlights the product lines that contribute the most to the supermarket profitability, guiding strategic and targeted advertising.
+    
+   ![Screenshot 2024-11-23 203136](https://github.com/user-attachments/assets/a5016fbd-33e6-4024-a7f0-047a00287c2d)
+   
+6. *Sales by Branch name*  
+   The bar chart below illustrates the total profitability of different branches. From the chart, we can see that Branch C has the highest total profitability compared to the other branches. This indicates that Branch C is performing exceptionally well in terms of generating revenue and managing costs effectively. The high profitability of Branch C suggests that it might have a larger customer base, higher sales volume, or more efficient operations compared to the other branches. Overall, the chart highlights the success of Branch C, which could serve as a model for other branches to improve their profitability.
+ ![sales performance](https://github.com/user-attachments/assets/a5b23a43-0124-40c4-9d38-f45c10a6fcd4)
 
 
