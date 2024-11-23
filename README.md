@@ -33,6 +33,7 @@ The following common data quality issues were checked with the help of pandas li
 * #### DATA EXPLORATION
   Data exploration techinques were employed which involves descriptive statistics to provide summary statistics(mean, mode, median, quartiles,standard deviation,etc) to have a rough understanding of the data before diving deep into earthing insights. Histograms, boxplot/whisker, kernel density were of use to help with identifying outliers,patterns and trends in the dataset.
 ![heatmap summary stat](https://github.com/user-attachments/assets/d9b9fd11-f6b7-4373-b51b-0f09b4b8575a)
+The density distribution of customer ratings shows a single peak around a rating of 7, suggesting that this is the most common rating. The curve is relatively wide, indicating a high variability in customer ratings. 
 ![ratings ditribution](https://github.com/user-attachments/assets/18050c59-0edf-4a36-8e6d-262edd1b5cb3)
 
   
@@ -54,7 +55,8 @@ The following common data quality issues were checked with the help of pandas li
    The figure below depicts customer ratings for different products and services. This can help us understand customer perceptions. Health and beauty products received the lowest ratings, indicating a need for review and improvement to enhance their appeal.
    
   ![Gauge ratings (1)](https://github.com/user-attachments/assets/24de4456-f930-444f-a884-2249e6faebc9)
-6. *Sales by customer?*
+6. *Sales by customer?*  
+The bar chart below shows the total sales categorized by gender. From the chart, we can see that the total sales for females are higher than those for males. This information is crucial for understanding the purchasing behavior of different genders, which can help in tailoring marketing strategies. The higher sales among females suggest that marketing efforts could be more focused on products that appeal to women to maximize revenue. Overall, the chart indicates that females contribute more to total sales, highlighting the importance of targeting this demographic in future campaigns.
 ![Demographics](https://github.com/user-attachments/assets/579fbe4b-31c3-4452-aaaf-e5022502b282)
 
 7. *Most profitable product line ?*![Screenshot 2024-11-23 203136](https://github.com/user-attachments/assets/a5016fbd-33e6-4024-a7f0-047a00287c2d)
