@@ -11,8 +11,8 @@ This analysis intends to investigate the market sales of an imaginary supermarke
 4. To determine which product line are most profitable?
 5. To analyse sales by customer demographic (gender and member)
 6. To compare sales performance across branches
-7. To determine the total sales revenue over a specifi![payment methods (1)](https://github.com/user-attachments/assets/65bdef29-02a4-42e5-8c90-d73eed8886af)
-c period?
+7. To determine the total sales revenue over a specific period?
+
 ### DATA ANALYSIS METHODOLOGY
 This is a systematic process of inspecting ,cleaning, transforming data with the goal of discovering useful information and this was done using python with libraries such as **pandas, matplotlib , seaborn and numpy** imported.
  * ##### DATA COLLECTION 
@@ -38,5 +38,10 @@ The following common data quality issues were checked with the help of pandas li
  1.  *Total sales revenue over a specific period?*
     ![Sales of revenue over period](Sales_revenue_over_specific_period.png)
 2. *Payment methods used by customer?*
-   ![Payment methods used by customer](file:///C:/Users/ThatayotlheDinona/Downloads/payment%20methods.png)
-  
+   ![Payment methods used by customer](https://github.com/user-attachments/assets/734f0e5a-4904-41ca-aa4d-0ca8f9fb9ff7)
+3. *Customer ratings to gauge satisfaction levels?*
+  ![Gauge ratings (1)](https://github.com/user-attachments/assets/24de4456-f930-444f-a884-2249e6faebc9)
+4. *Which product line are most profitable?*
+![Demographics](https://github.com/user-attachments/assets/579fbe4b-31c3-4452-aaaf-e5022502b282)
+
+
