@@ -11,7 +11,8 @@ This analysis intends to investigate the market sales of an imaginary supermarke
 4. To determine which product line are most profitable?
 5. To analyse sales by customer demographic (gender and member)
 6. To compare sales performance across branches
-7. To determine the total sales revenue over a specific period?
+7. To determine the total sales revenue over a specifi![payment methods (1)](https://github.com/user-attachments/assets/65bdef29-02a4-42e5-8c90-d73eed8886af)
+c period?
 ### DATA ANALYSIS METHODOLOGY
 This is a systematic process of inspecting ,cleaning, transforming data with the goal of discovering useful information and this was done using python with libraries such as **pandas, matplotlib , seaborn and numpy** imported.
  * ##### DATA COLLECTION 
