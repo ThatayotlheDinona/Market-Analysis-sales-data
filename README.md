@@ -35,5 +35,5 @@ The following common data quality issues were checked with the help of pandas li
   Visuals were created to support analysis and visualise patterns, trends and insights of the data.
 
  1.  *Total sales revenue over a specific period?*
-    
+    ![Sales of revenue over period](Sales_revenue_over_specific_period.png)
   
